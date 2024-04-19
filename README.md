@@ -7,39 +7,39 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 
 Project Requirements:
 
-Implement a function to generate a 6-digit OTP randomly.
+>Implement a function to generate a 6-digit OTP randomly.
 
-Develop a function to simulate sending the OTP to the user's email address.
+>Develop a function to simulate sending the OTP to the user's email address.
 
-Create a function to prompt the user to enter the OTP received in their email.
+>Create a function to prompt the user to enter the OTP received in their email.
 
-Implement a function to verify if the entered OTP matches the generated OTP.
+>Implement a function to verify if the entered OTP matches the generated OTP.
 
-Ensure proper error handling and user-friendly prompts throughout the system.
+>Ensure proper error handling and user-friendly prompts throughout the system.
 
-Allow the user to retry OTP entry in case of incorrect input.
+>Allow the user to retry OTP entry in case of incorrect input.
 
 Project Deliverables:
 
-Python script containing the implementation of the OTP verification system.
+>Python script containing the implementation of the OTP verification system.
 
-Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
+>Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
 
-Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
+>Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
 
-Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
+>Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
 
 Project Evaluation:
 
-Your project will be evaluated based on the following criteria:
+>Your project will be evaluated based on the following criteria:
 
-Correctness and functionality of the OTP generation, sending, and verification process.
+>Correctness and functionality of the OTP generation, sending, and verification process.
 
-Code quality, including adherence to Python best practices, readability, and documentation.
+>Code quality, including adherence to Python best practices, readability, and documentation.
 
-Error handling and user interaction aspects of the system.
+>Error handling and user interaction aspects of the system.
 
-Robustness and reliability of the system under different scenarios.
+>Robustness and reliability of the system under different scenarios.
 
-Optional: Creativity and usability of the GUI interface (if implemented).
+>Optional: Creativity and usability of the GUI interface (if implemented).
 
